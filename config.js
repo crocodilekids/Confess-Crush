@@ -6,15 +6,14 @@ const CONFIG = {
     Lạc vào tim bồ lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^aHiHi^^',
-    title: 'Phải chăng bồ đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng  đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Phải chăng bồ đã yêu Đen ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng bồ đã say ngay từ lúc thấy vị ngọt ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    mess: 'Tui biết mà 🥰. Yêu bồ nhiều nhiều 😘😘',
+    messDesc: 'Hôm nay, bồ đừng quên ghé Đen Cận nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
